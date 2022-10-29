@@ -1,2 +1,4 @@
 let me = "Frontend Developer"
-let you = "Student"
+function clickMe(){
+  console.log('Welcome');
+}
